@@ -45,7 +45,9 @@ input[type="checkbox"]:focus {
 
 .botao-padrao {
   background-color: #B29463;
+  color: black;
   padding: 5px;
+  font-weight: 700;
 }
 
 .botao-padrao:hover {
