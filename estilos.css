@@ -18,6 +18,10 @@ input[type="checkbox"]:focus {
   outline: none;
 }
 
+.input-range {
+  color: #B29463
+}
+
 .banner-1 {
   background-image: url(./assets/banner-1.png);
 }
